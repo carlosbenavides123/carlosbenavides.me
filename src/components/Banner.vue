@@ -20,6 +20,11 @@
           >
             <i class="fab fa-linkedin mr-2"></i>linkedin
           </a>
+          
+          <a href="https://carlosbenavides123.github.io/resume/" target="_blank">Link to resume</a>
+          <a
+            href="https://github.com/carlosbenavides123/resume/raw/master/cbenavidesresume.pdf"
+          >Download resume</a>
         </div>
       </div>
     </div>

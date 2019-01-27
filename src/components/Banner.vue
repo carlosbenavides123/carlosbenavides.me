@@ -20,7 +20,6 @@
           >
             <i class="fab fa-linkedin mr-2"></i>linkedin
           </a>
-          <a href="../../../cbenavidesresume.pdf" download>download</a>
         </div>
       </div>
     </div>

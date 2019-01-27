@@ -21,20 +21,17 @@ export default {
         {
           icon: "wrench",
           name: "Hard Work",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit molestias odio vero maxime fuga, doloremque magnam vel enim iusto alias?"
+          description: "temp 1"
         },
         {
           icon: "graduation-cap",
           name: "Learning",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit molestias odio vero maxime fuga, doloremque magnam vel enim iusto alias?"
+          description: "temp 2"
         },
         {
           icon: "handshake",
           name: "Reliable",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit molestias odio vero maxime fuga, doloremque magnam vel enim iusto alias?"
+          description: "temp 3"
         }
       ]
     };

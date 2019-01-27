@@ -23,26 +23,22 @@ export default {
         {
           image: image1,
           name: "Project 1",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolores tempora quidem quia dolorum vitae unde ea beatae porro placeat!"
+          description: "temp"
         },
         {
           image: image2,
           name: "Project 2",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolores tempora quidem quia dolorum vitae unde ea beatae porro placeat!"
+          description: "temp2"
         },
         {
           image: image3,
           name: "Project 3",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolores tempora quidem quia dolorum vitae unde ea beatae porro placeat!"
+          description: "temp3"
         },
         {
           image: image4,
           name: "Project 4",
-          description:
-            "Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere dolores tempora quidem quia dolorum vitae unde ea beatae porro placeat!"
+          description: "temp 4"
         }
       ]
     };

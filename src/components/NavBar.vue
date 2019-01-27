@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-md navbar-dark bg-dark p-3 fixed-top">
-    <a href="#" class="navbar-brand text-uppercase">Perez Snow</a>
+    <a href="#" class="navbar-brand text-uppercase">Carlos Benavides</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarBrand">
       <span class="navbar-toggler-icon"></span>
     </button>

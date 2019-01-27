@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row">
         <div class="col text-center">
-          <p class="mt-2">&copy;Copyright 2018 Perez Snow.</p>
+          <p class="mt-2">Carlos Benavides</p>
         </div>
       </div>
     </div>
